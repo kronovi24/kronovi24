@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kurts canoy</h1>
 <h3 align="center">A passionate Full-stack developer from Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [kurtzcanoy.rf.gd](kurtzcanoy.rf.gd)
-
+<p align="center">
+- 👨‍💻 All of my projects are available at (kurtzcanoy.rf.gd)
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/kurtscanoy24" target="blank"><img align="center"
