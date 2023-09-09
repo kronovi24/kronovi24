@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack developer from Philippines</h3>
 
 <p align="center">
-- 👨‍💻 All of my projects are available at (kurtzcanoy.rf.gd)
+- 👨‍💻 All of my projects are available at (kurtzcanoy.vercel.app)
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
