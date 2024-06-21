@@ -25,6 +25,7 @@ class About extends Me
             Mysql::class,
             TailwindCss::class,
             Jquery::class,
+            VueJs::class
         ];
     }
 
