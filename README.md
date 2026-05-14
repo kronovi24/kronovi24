@@ -5,12 +5,23 @@ namespace KurtsCanoy;
 
 class About extends Me
 {
-    public function getCurrentWorkplace(): array
+    public function getWorkExperience(): array
     {
         return [
-            'workplace' => [
-                'company' => 'Provincial ICT Unit, Surigao Del Norte',
-                'position' => 'Computer Programmer'         
+            [
+                'company' => 'Provincial ICT Office, Surigao del Norte',
+                'position' => 'Computer Programmer',
+                'year' => '2024 - 2026'
+            ],
+            [
+                'company' => 'Provincial ICT Unit, Surigao del Norte',
+                'position' => 'Administrative Aide II',
+                'year' => '2023 - 2023'
+            ],
+            [
+                'company' => 'Freelance',
+                'position' => 'Full Stack & Embedded Systems Developer',
+                'year' => '2021 - 2023'
             ]
         ];
     }
